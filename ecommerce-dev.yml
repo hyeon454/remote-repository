@@ -1,5 +1,5 @@
 jwt:
-  secret: dev-cntrsecretKey1231sdfsdaf3143214312sadfasdf23123dfasf2dasfd43241234sdafs
+  secret: dev2-cntrsecretKey1231sdfsdaf3143214312sadfasdf23123dfasf2dasfd43241234sdafs
   expiration_time : 86400001
 
 gateway:
