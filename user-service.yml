@@ -4,3 +4,10 @@ spring:
    url: jdbc:h2:mem:test
    username: sa
    password: 1234
+
+jwt:
+  secret: v2_cntrsecretKey1231sdfsdaf3143214312sadfasdf23123dfasf2dasfd43241234sdafs
+  expiration_time : 8640000
+
+gateway:
+  ip: 192.168.0.17
