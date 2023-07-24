@@ -1,6 +1,6 @@
 jwt:
-  secret: cntrsecretKey1231sdfsdaf3143214312sadfasdf23123dfasf2dasfd43241234sdafs
-  expiration_time : 86400001
+  secret: v1_cntrsecretKey1231sdfsdaf3143214312sadfasdf23123dfasf2dasfd43241234sdafs
+  expiration_time : 86400002
 
 gateway:
   ip: 192.168.0.17
